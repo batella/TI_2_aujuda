@@ -1,0 +1,226 @@
+.logo {
+    max-width: 150px;
+}
+
+.animasi {
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+}
+
+.logo-principal {
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.nav {
+
+    top: 40px;
+    left: 30%;
+    background-color: rgb(214, 212, 253);
+    margin: 10px;
+
+
+}
+
+body {
+    max-width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+
+.search-form {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+}
+
+a[href="index2.html"] {
+    /* Aplica as seguintes regras apenas a elementos 'a' com o atributo 'href' igual a 'index2.html' */
+    display: inline-block;
+    /* Define o elemento como um bloco em linha */
+    background-color: rgb(162, 206, 235);
+    /* Define a cor de fundo para um amarelo claro */
+    padding: 10px 50px;
+    /* Define o preenchimento interno superior e inferior para 10 pixels e o preenchimento interno esquerdo e direito para 20 pixels */
+    font-size: 18px;
+    /* Define o tamanho da fonte para 18 pixels */
+    font-weight: bold;
+    /* Define o peso da fonte como negrito */
+    color: #333;
+    /* Define a cor do texto para um tom de cinza escuro */
+    text-decoration: none;
+    /* Remove a decoração de sublinhado do link */
+    border-radius: 40px;
+    /* Define um raio de borda arredondado de 5 pixels */
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    /* Adiciona uma sombra de caixa de 2 pixels em todas as direções com uma transparência de 20% */
+}
+
+a[href="index2.html"]:hover {
+    color: aliceblue;
+}
+
+a[href="index5.html"] {
+    /* Aplica as seguintes regras apenas a elementos 'a' com o atributo 'href' igual a 'index2.html' */
+    display: inline-block;
+    /* Define o elemento como um bloco em linha */
+    background-color: rgb(162, 206, 235);
+    /* Define a cor de fundo para um amarelo claro */
+    padding: 10px 50px;
+    /* Define o preenchimento interno superior e inferior para 10 pixels e o preenchimento interno esquerdo e direito para 20 pixels */
+    font-size: 18px;
+    /* Define o tamanho da fonte para 18 pixels */
+    font-weight: bold;
+    /* Define o peso da fonte como negrito */
+    color: #333;
+    /* Define a cor do texto para um tom de cinza escuro */
+    text-decoration: none;
+    /* Remove a decoração de sublinhado do link */
+    border-radius: 40px;
+    /* Define um raio de borda arredondado de 5 pixels */
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    /* Adiciona uma sombra de caixa de 2 pixels em todas as direções com uma transparência de 20% */
+}
+
+a[href="index5.html"]:hover {
+    color: aliceblue;
+}
+
+a[href="caes.html"] {
+    /* Aplica as seguintes regras apenas a elementos 'a' com o atributo 'href' igual a 'index2.html' */
+    display: inline-block;
+    /* Define o elemento como um bloco em linha */
+    background-color: rgb(162, 206, 235);
+    /* Define a cor de fundo para um amarelo claro */
+    padding: 10px 50px;
+    /* Define o preenchimento interno superior e inferior para 10 pixels e o preenchimento interno esquerdo e direito para 20 pixels */
+    font-size: 18px;
+    /* Define o tamanho da fonte para 18 pixels */
+    font-weight: bold;
+    /* Define o peso da fonte como negrito */
+    color: #333;
+    /* Define a cor do texto para um tom de cinza escuro */
+    text-decoration: none;
+    /* Remove a decoração de sublinhado do link */
+    border-radius: 40px;
+    /* Define um raio de borda arredondado de 5 pixels */
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    /* Adiciona uma sombra de caixa de 2 pixels em todas as direções com uma transparência de 20% */
+}
+
+a[href="caes.html"]:hover {
+    color: aliceblue;
+}
+
+a[href="gatos.html"] {
+    /* Aplica as seguintes regras apenas a elementos 'a' com o atributo 'href' igual a 'index2.html' */
+    display: inline-block;
+    /* Define o elemento como um bloco em linha */
+    background-color: rgb(162, 206, 235);
+    /* Define a cor de fundo para um amarelo claro */
+    padding: 10px 50px;
+    /* Define o preenchimento interno superior e inferior para 10 pixels e o preenchimento interno esquerdo e direito para 20 pixels */
+    font-size: 18px;
+    /* Define o tamanho da fonte para 18 pixels */
+    font-weight: bold;
+    /* Define o peso da fonte como negrito */
+    color: #333;
+    /* Define a cor do texto para um tom de cinza escuro */
+    text-decoration: none;
+    /* Remove a decoração de sublinhado do link */
+    border-radius: 40px;
+    /* Define um raio de borda arredondado de 5 pixels */
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    /* Adiciona uma sombra de caixa de 2 pixels em todas as direções com uma transparência de 20% */
+}
+
+a[href="gatos.html"]:hover {
+    color: aliceblue;
+}
+
+header {
+    background-size: cover;
+    background-position: 0px -600px;
+    padding: 15px;
+    background-color: rgb(129, 234, 248);
+    margin: 0px;
+
+}
+
+.apresentação {
+    background-color: rgb(137, 196, 235);
+
+}
+
+.banners {
+    margin-left: 10px;
+    padding: 5%;
+}
+
+.dog {
+    /* Aplica as seguintes regras apenas a elementos 'a' com o atributo 'href' igual a 'index2.html' */
+    display: inline-block;
+    /* Define o elemento como um bloco em linha */
+    background-color: rgb(162, 206, 235);
+    /* Define a cor de fundo para um amarelo claro */
+    padding: 10px 50px;
+    /* Define o preenchimento interno superior e inferior para 10 pixels e o preenchimento interno esquerdo e direito para 20 pixels */
+    font-size: 18px;
+    /* Define o tamanho da fonte para 18 pixels */
+    font-weight: bold;
+    /* Define o peso da fonte como negrito */
+    color: #333;
+    /* Define a cor do texto para um tom de cinza escuro */
+    text-decoration: none;
+    /* Remove a decoração de sublinhado do link */
+    border-radius: 70px;
+    /* Define um raio de borda arredondado de 5 pixels */
+    box-shadow: 4px 4px 8px #333;
+    /* Adiciona uma sombra de caixa de 2 pixels em todas as direções com uma transparência de 20% */
+    transition: transform 0.7s ease-in-out;
+}
+
+.dog:hover {
+    transform: scale(1.2);
+}
+
+
+
+.denuncia {
+    background-color: rgb(129, 234, 248);
+}
+
+.denuncia h1 {
+    text-align: center;
+    padding: 15px;
+}
+
+.denuncia p {
+    margin: 30px;
+    margin-left: 200px;
+}
+
+.denunciaestado {
+    background-color: rgb(49, 217, 240);
+    margin: 30px;
+    padding: 5%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(137, 196, 235);
+
+}
+
+.logofooter {
+
+    max-width: 100px;
+}
+
+.aujuda {
+    width: 80px;
+    height: 30px;
+}

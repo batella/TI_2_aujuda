@@ -1,0 +1,34 @@
+.container {
+    padding-top: 150px;
+}
+#login-column {
+    background-color:rgb(255, 255, 255);
+    color: black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-block-end: 20px;
+    padding-top: 20px;
+}
+
+a label {
+    color: black;
+    font-size:x-large;
+}
+
+.text-info{
+    color: black;
+}
+
+#btn  {
+    background-color:dodgerblue;
+}
+
+#let {
+    color: black, !important;
+} 
+body {
+    max-width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+
+

@@ -1,0 +1,204 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.bg-modal {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
+    position: fixed;
+    z-index: 2;
+    top: -100%;
+    transition: 350ms;
+    display: block;
+}
+h2{ 
+    text-align: center;
+}
+.button {
+    position: relative;
+    left: 231%;
+    transform: translateX(-50%);
+  }
+
+body {
+    max-width: 100%;
+    height: auto;
+    overflow-x: hidden;
+}
+
+.search-form {
+    display: grid;
+    grid-template-columns: 2fr auto;
+    align-items: center;
+}
+
+.apresentação {
+    background-color: #000000;
+    padding: 20px;
+}
+
+/* Estilo para o título dos banners */
+.banners h2 {
+    font-size: 24px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+/* Estilo para o botão da calculadora */
+.btn {
+    background-color: #020202;
+    color: #000000;
+    border-radius: 3px;
+    padding: 10px 20px;
+    border: white;
+    cursor: pointer;
+    box-shadow: 4px 4px 5px #000000;
+    border: 1px solid #000000;
+    width: 60%;
+}
+
+/* Estilo para o botão da calculadora quando hover */
+.btn:hover {
+    background-color: #080808;
+    border: white;
+}
+
+.modal {
+    position: relative;
+    background-color: rgb(50, 163, 255);
+    color: black;
+    padding: 1em;
+    flex-direction: column;
+    align-items: center;
+    width: 450px;
+    max-width: 85%;
+    height: 550px;
+    max-height: 65%;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 100px auto 0 auto;
+}
+
+.modal span {
+    float: right;
+    font-size: 50px;
+    color: rgb(214, 212, 253);
+    margin: 8px 15px;
+    transition: 350ms;
+}
+
+.modal span:hover {
+    color: aquamarine;
+    transition: 350ms;
+}
+
+.titulo {
+    color: white;
+    font-size: 40px;
+}
+
+.portes {
+    padding-top: 20px;
+}
+
+.tipoos {
+    padding-top: 20px;
+}
+
+.tiposss {
+    padding-left: 90%;
+}
+
+.racaa {
+    padding-top: 20px;
+    padding-block-end: 20px;
+}
+
+.text-area {
+    padding-top: 20px;
+}
+
+.logo {
+    max-width: 150px;
+}
+
+.nav {
+    top: 40px;
+    left: 30%;
+    background-color: rgb(214, 212, 253);
+    margin: 10px;
+}
+
+header {
+    background-size: cover;
+    background-position: 0px -600px;
+    padding: 15px;
+    background-color: rgb(129, 234, 248);
+    margin: 0px;
+
+}
+
+.apresentação {
+    background-color: rgb(137, 196, 235);
+
+}
+
+.banners {
+    margin: 170px;
+    margin-left: 10px;
+}
+
+.denuncia {
+    background-color: rgb(129, 234, 248);
+}
+
+.denuncia h1 {
+    text-align: center;
+    padding: 15px;
+}
+
+.denuncia p {
+    margin: 30px;
+    margin-left: 200px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(137, 196, 235);
+
+}
+
+.logofooter {
+
+    max-width: 100px;
+}
+
+.btn {
+    background-color: white;
+}
+
+#text_area {
+    padding-block-end: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    max-width: 70%;
+    height: 100px;
+    max-height: 50%;
+}
+
+.aujuda {
+    width: 80px;
+    height: 30px;
+}
+
+.denunciaestado {
+    background-color: rgb(49, 217, 240);
+    margin: 30px;
+    padding: 5%;
+}
